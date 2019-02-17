@@ -1,4 +1,5 @@
-# SBMI_PROJECT
+# Microprocessor Based Systems and Interfaces - Sistemas Baseados em Microprocessadores (SBMI)
+
 Project done at Porto University as part of 'Microprocessor Based Systems and Interfaces' course
 
 Authors: Mario Kodba and Nicolas Dortet-Halet

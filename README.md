@@ -3,7 +3,7 @@
 Project done at Porto University as part of 'Microprocessor Based Systems and Interfaces' course
 
 Authors: Mario Kodba and Nicolas Dortet-Halet
- *
+ 
  *  The project was done as part of practical class of Sistemas Baseados
  *	em Microprocessadores (SBMI) - Microprocessor based Systems and Interfaces at FEUP.
  *	All the working materials, such as the lamp,AC to DC converting
